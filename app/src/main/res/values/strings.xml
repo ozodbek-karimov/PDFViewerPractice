@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PDFViewerPractice</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pdf_viewer">PDF Viewer</string>
+    <string name="file_size">File Size</string>
+    <string name="file_nname">File \nName</string>
+</resources>
